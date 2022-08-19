@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1654687721,
-      "filename": "update.zip",
-      "id": "5eb63bbbe01avd093cb22bb8f5acdc5",
+      "datetime": 1660907518,
+      "filename": "lineage_hotdog-ota-eng.jannik.zip",
+      "id": "5eb63bbbe01avd093cb22bb8f5acdc9",
       "romtype": "unofficial",
-      "size": 1052343621,
-      "url": "https://github.com/sudough/lineageOTA/releases/download/1.1/update.zip",
+      "size": 1049049902,
+      "url": "https://github.com/sudough/lineageOTA/releases/download/1.2/lineage_hotdog-ota-eng.jannik.zip",
       "version": "19.1"
     }
   ]
